@@ -1,0 +1,4 @@
+working folder: PS C:\Users\juanr\Desktop\full stack\Chatapp> 
+test version: PS C:\Users\juanr\Desktop\full stack\Chatapp> node --version
+test npm: npm --v
+create package: npm init --y
